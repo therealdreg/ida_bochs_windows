@@ -73,7 +73,11 @@ Helper script for Windows kernel debugging with IDA Pro on VMware + GDB stub (in
 Helper scripts for windows debugging with symbols for Bochs and IDA Pro (PDB files). Very handy for user mode <--> kernel mode:
 - https://github.com/therealdreg/symseghelper
 
-https://github.com/therealdreg/pdbdump_bochs
+Helper script for Linux kernel debugging with IDA Pro on VMware + GDB stub (including some symbols helpers):
+- https://github.com/therealdreg/linux_kernel_debug_disassemble_ida_vmware
+
+Dump PDB Symbols including support for Bochs Debugging Format (with wine support):
+- https://github.com/therealdreg/pdbdump_bochs
 
 ## Credits
 
