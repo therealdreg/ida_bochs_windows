@@ -42,6 +42,8 @@ Cick Debug Options -> Set specific options -> Select Disk image
 
 start a debug session and go to File -> Script File -> ida_bochs_windows.py
 
+This idapython script ask you for bochs symbol file
+
 Done!
 
 ## Export IDA Names to file for raw Bochs debug
