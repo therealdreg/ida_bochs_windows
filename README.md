@@ -79,6 +79,9 @@ Helper script for Linux kernel debugging with IDA Pro on VMware + GDB stub (incl
 Dump PDB Symbols including support for Bochs Debugging Format (with wine support):
 - https://github.com/therealdreg/pdbdump_bochs
 
+Tools for Linux kernel debugging on Bochs (including symbols, native Bochs debugger and IDA PRO):
+- https://github.com/therealdreg/bochs_linux_kernel_debugging
+
 ## Credits
 
 Based on original IDA-VMware-GDB By Oleksiuk Dmytro (aka Cr4sh) https://github.com/Cr4sh/IDA-VMware-GDB
