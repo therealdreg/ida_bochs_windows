@@ -20,7 +20,24 @@ Bochs debugger GUI:
 SRV*C:\winsymbols*
 ```` 
 
-Open IDA PRO, start a debug session and go to File -> Script File -> ida_bochs_windows.py
+
+Edit "C:\Program Files\IDA Pro 7.7\cfg\dbg_bochs.cfg"
+
+BOCHSDBG = "C:\\Users\\leno\\Desktop\\Bochs-pruebas\\bochs\\bochs.exe";
+BOCHSRC = "C:\\Users\\leno\\Desktop\\Bochs-pruebas\\bochs\\.bochsrc";
+Go to IDA .....
+
+Open IDA PRO, 
+
+Debugger -> Run -> Local Bochs Debugger
+
+Application:
+
+C:\Users\leno\Desktop\Bochs-pruebas\bochs\.bochsrc
+
+Cick Debug Options -> Set specific options -> Select Disk image
+
+start a debug session and go to File -> Script File -> ida_bochs_windows.py
 
 Done!
 
