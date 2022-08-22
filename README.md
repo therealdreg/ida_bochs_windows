@@ -20,20 +20,23 @@ Bochs debugger GUI:
 SRV*C:\winsymbols*
 ```` 
 
-
 Edit "C:\Program Files\IDA Pro 7.7\cfg\dbg_bochs.cfg"
 
+```
 BOCHSDBG = "C:\\Users\\leno\\Desktop\\Bochs-pruebas\\bochs\\bochs.exe";
 BOCHSRC = "C:\\Users\\leno\\Desktop\\Bochs-pruebas\\bochs\\.bochsrc";
+```
+
 Go to IDA .....
 
 Open IDA PRO, 
 
-Debugger -> Run -> Local Bochs Debugger
+Go to Debugger -> Run -> Local Bochs Debugger
 
 Application:
-
+```
 C:\Users\leno\Desktop\Bochs-pruebas\bochs\.bochsrc
+```
 
 Cick Debug Options -> Set specific options -> Select Disk image
 
